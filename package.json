@@ -33,7 +33,7 @@
   "author": "xingway",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^6.0.12",
+    "electron": "^9.1.0",
     "electron-builder": "^21.2.0",
     "electron-rebuild": "^1.8.6",
     "nodemon": "^1.19.3"
